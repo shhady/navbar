@@ -1,0 +1,30 @@
+.nav {
+    text-align: center;
+    background-color: grey;
+    margin-top: 0;    
+    padding:0;
+    position: sticky;
+    top: 0;;
+    /* overflow: auto; */
+}
+.nav li{
+    display: inline;
+    font-size: 36px;
+    text-align: center;
+    padding-right: 20px;
+    /* float: left; */
+}
+
+.nav li button:hover{
+        background-color: rgb(185, 180, 180);
+}
+button{
+    margin-left: 25px;
+    width: 100px;
+    /* display: block; */
+    margin: 20px;
+}
+
+body{
+    height: 4000px;
+}
